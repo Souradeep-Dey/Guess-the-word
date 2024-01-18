@@ -1,0 +1,51 @@
+.myfont{
+  font-family: 'Asap Condensed', sans-serif;
+}
+.cardHead{
+  font-size:6vmin;
+  font-family: 'Asap Condensed', sans-serif;
+}
+.joinButton{
+  font-size:8vmin;
+  font-family: 'Asap Condensed', sans-serif;
+  color:white;
+}
+.Point{
+  text-align:left;
+  color:white;
+}
+.Name{
+  float:right;
+  color:white;
+}
+.borders{
+  border-radius:3vmin;
+}
+.borders2{
+  border-radius:1vmin;
+}
+.imageCharacter{
+  border-radius: 50%;
+}
+ .leaderboard{
+  font-family: 'Asap Condensed', sans-serif;
+   color:white;
+  font-weight:bold;
+  font-size:8vmin;
+  color:yellow;
+  background-color:blue;
+} 
+.borders2::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+
+.borders2::-webkit-scrollbar-track {
+  background: #030a6d;
+  border-radius: 30px; /* color of the tracking area */
+}
+
+.borders2::-webkit-scrollbar-thumb {
+  background-color: #00d5ff;    /* color of the scroll thumb */
+  border-radius: 30px;       /* roundness of the scroll thumb */
+  border: 3px solid #00b3ff;  /* creates padding around scroll thumb */
+}
